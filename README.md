@@ -1,2 +1,2 @@
 # primeiro-projeto
-# Primeiro projeto proposto pela Escola DNC.
+Primeiro projeto proposto pela Escola DNC.
